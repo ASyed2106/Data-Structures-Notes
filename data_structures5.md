@@ -92,8 +92,8 @@ print('Deleting sammy, should create an error when referenced again', sammy)
 ## Dictionary Methods
   - To help power this awesome data structure, it has good set of methods for us to use.
   - Let A and B be a dictionary
-      A.keys() –> Returns a sequence of keys/addresses in A
-      A.values() –> Returns a sequence of item values in A
-      A.items() –> Returns a sequence of key,item pairs in A
-      A.get(address) –> Returns the item value at address
-      A.update(B) –> Extends A with the dictionary of key,value pairs of B
+      - A.keys() –> Returns a sequence of keys/addresses in A
+      - A.values() –> Returns a sequence of item values in A
+      - A.items() –> Returns a sequence of key,item pairs in A
+      - A.get(address) –> Returns the item value at address
+      - A.update(B) –> Extends A with the dictionary of key,value pairs of B
